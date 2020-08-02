@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: Katrina Nygren
 Description: Portfolio
 profile: /profilephoto.jpg
+
+logo: /profilephoto.jpg
